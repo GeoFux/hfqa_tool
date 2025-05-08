@@ -1,14 +1,14 @@
 /Documentation/ @sfchishti
 
 ### Authors
-- **Saman Firdaus Chishti** (1)(2)    [chishti@gfz-potsdam.de](mailto:chishti@gfz-potsdam.de)
+- **Saman Firdaus Chishti** (1)(2)    [chishti@gfz.de](mailto:chishti@gfz.de)
 - **Elif Balkan-Pazvantoğlu** (1)(3)    [elif.balkan@deu.edu.tr](mailto:elif.balkan@deu.edu.tr)
-- **Ben Norden** (1)    [ben.norden@gfz-potsdam.de](mailto:ben.norden@gfz-potsdam.de)
+- **Ben Norden** (1)    [ben.norden@gfz.de](mailto:ben.norden@gfz.de)
 - **Florian Neumann** (1)(4)    [fneumann@marum.de](mailto:fneumann@marum.de)
-- **Samah Elbarbary** (1)    [samelb@gfz-potsdam.de](mailto:samelb@gfz-potsdam.de)
-- **Eskil Salis Gross** (1)    [eskilsg@gfz-potsdam.de](mailto:eskilsg@gfz-potsdam.de)
+- **Samah Elbarbary** (1)    [samelb@gfz.de](mailto:samelb@gfz.de)
+- **Eskil Salis Gross** (1)    [eskilsg@gfz.de](mailto:eskilsg@gfz.de)
 - **Alexey G. Petrunin** (1)(5)    [alexey.petrunin@gfz.de](mailto:alexey.petrunin@gfz.de)
-- **Sven Fuchs** (1)    [fuchs@gfz-potsdam.de](mailto:fuchs@gfz-potsdam.de)
+- **Sven Fuchs** (1)    [sven.fuchs@gfz.de](mailto:sven.fuchs@gfz.de)
 
 ### Affiliations
   - (1) Section Geoenergy, GFZ Helmholtz Centre for Geosciences, Potsdam, 14471, Germany
